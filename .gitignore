@@ -1,0 +1,11 @@
+doc/
+*.log
+*.html
+*.css
+*.js
+*.jsx
+*.py
+*.java
+*.exe
+*.aspx
+*.vb

@@ -1,0 +1,26 @@
+How to configuring Git?
+
+We need to configure git with the username and email id if we installed 
+it for the first time.
+
+To configure git for the first time in our local machine use the following git commands-
+
+( NOTE: After installing git, it provides us with free command Line Interface(CLI)
+i.e Git Bash. To run git command we can either use git bash or any other cli. 
+i.e command prompt/terminal/VS code powershell)
+
+git can also be configure locally in different projects using local keyward, just replace 
+global with local.
+
+git commands:- 
+# To set username - git config --global user.name "My Name"
+# To set email_ID - git config --global user.email "My email"
+
+After we set our username and email we are good to start with git.
+
+git commands to check details:
+#To check username - git config user.name
+#To check email    - git config user.email
+#To check other details - git config --list
+
+

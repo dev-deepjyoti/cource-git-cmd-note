@@ -1,0 +1,26 @@
+
+How to download and install git environment in our machine?
+
+1. We need to check if git is installed in our machine.
+To check we need to open our command prompt/terminal and then
+type "git --version" or "git -v" to check its version. If the command
+is not recognized then git it not installed. we need to install it.
+
+2. We need to download the git environment in our machine and install
+ it so that we can run git command to perform version control and keep 
+ track of our files. Without git environment, we cannot run git commands
+as those commands will not get recognized in our machine/computer.
+
+3. Search in google - download git.
+
+we will be provided with git website - https://git-scm.com/downloads
+we need to download git according to our Operating system and install it 
+
+After installing git we can check if it is installed correctly by typing 
+the command "git --version" or "git -v" in command prompt/terminal. if we
+get to see the version installed, we are now sure that git is 
+installed successfully.
+
+NOTE: After installing git, it provides us with free command Line Interface(CLI)
+i.e Git Bash. To run git command we can either use git bash or any other cli. 
+i.e command prompt/terminal/VS code powershell
